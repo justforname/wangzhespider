@@ -1,4 +1,4 @@
 ##
-## Spider wangzherongyao game userinfo
+## 通过微信web接口爬游戏用户等级段位胜率等信息
 ##
 ##
